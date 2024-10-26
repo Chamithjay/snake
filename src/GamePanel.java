@@ -103,6 +103,9 @@ public class GamePanel extends JPanel implements ActionListener {
             applesEaten++;
          }
     }
+    public void clickButton(){
+        
+    }
 
     public void checkCollisions(){
         //checks if head collides with body
