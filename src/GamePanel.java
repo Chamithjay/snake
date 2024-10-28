@@ -104,6 +104,7 @@ public class GamePanel extends JPanel implements ActionListener {
          }
     }
     public void clickButton(){
+        applesEaten = 0;
         
     }
 
